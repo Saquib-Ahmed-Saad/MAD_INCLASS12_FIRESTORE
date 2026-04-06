@@ -11,5 +11,8 @@ Real-time Flutter inventory app that performs CRUD operations on Cloud Firestore
 - Form validation covers empty fields, numeric parsing, and invalid values.
 - Enhanced features documented below.
 
-
+Enhanced Features:
+- Live search by item name or category
+- Low-stock filter toggle (quantity <= 5)
+- Summary cards for visible item count and visible inventory value
 
